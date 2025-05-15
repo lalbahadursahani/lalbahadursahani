@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lal Bahadur Sahani
+ 👋 Hi, I’m Lal Bahadur Sahani
 👀 I’m interested in Web Development and Android Development
 🌱 I’m currently studying Information Technology at Rajkiya Engineering College, Azamgarh
 💞️ I’m looking to collaborate on open-source projects and learning-focused development teams
